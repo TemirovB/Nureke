@@ -1,0 +1,6 @@
+framework module Pods_schoolMap_schoolMapUITests {
+  umbrella header "Pods-schoolMap-schoolMapUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
